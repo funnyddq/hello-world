@@ -4,4 +4,4 @@ my first project
 
 edit at home
 
-fix typo
+fix typo ... finished
